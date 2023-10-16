@@ -2,6 +2,8 @@ import Banner from "../components/Banner";
 import BannerTwo from "../components/BannerTwo";
 import Navbar from "../components/Navbar";
 import Products from "./Products";
+import FollowPage from "./FollowPage";
+import Footer from "./Footer";
 
 
 
@@ -12,6 +14,8 @@ const Home = () => {
             <Banner></Banner>
             <BannerTwo></BannerTwo>
             <Products></Products>
+            <FollowPage></FollowPage>
+            <Footer></Footer>
         </div>
     );
 };
