@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "Name": "Americano Coffee",
+      "Chef": "Mr. Matin Paul",
+      "Supplier": "Cappu Authorizer",
+      "Price" : "690 TK",
+      "Taste": "Sweet and hot",
+      "Category": "Americano",
+      "Details": "Espresso with hot water",
+      "image": "https://i.ibb.co/59rTskC/1.png"
+    },
+    {
+      "id": 2,
+      "Name": "Espresso Coffee",
+      "Chef": "Mr. Matin Paul",
+      "Supplier": "Cappu Authorizer",
+      "Price" : "690 TK",
+      "Taste": "Strong and bold",
+      "Category": "Espresso",
+      "Details": "A concentrated coffee shot",
+      "image": "https://i.ibb.co/Tb9rWxk/2.png"
+    },
+    {
+      "id": 3,
+      "Name": "Cappuccino Coffee",
+      "Chef": "Mr. Matin Paul",
+      "Supplier": "Cappu Authorizer",
+      "Price" : "690 TK",
+      "Taste": "Rich and creamy",
+      "Category": "Cappuccino",
+      "Details": "Espresso with steamed milk and foam",
+      "image": "https://i.ibb.co/f9JLBYP/3.png"
+    },
+    {
+      "id": 4,
+      "Name": "Latte Coffee",
+      "Chef": "Mr. Matin Paul",
+      "Supplier": "Cappu Authorizer",
+      "Price" : "690 TK",
+      "Taste": "Mild and creamy",
+      "Category": "Latte",
+      "Details": "Espresso with a lot of steamed milk",
+      "image": "https://i.ibb.co/v4yRX6m/4.png"
+    },
+    {
+      "id": 5,
+      "Name": "Mocha Coffee",
+      "Chef": "Mr. Matin Paul",
+      "Supplier": "Cappu Authorizer",
+      "Price" : "690 TK",
+      "Taste": "Chocolatey and rich",
+      "Category": "Mocha",
+      "Details": "Espresso with chocolate and steamed milk",
+      "image": "https://i.ibb.co/187Z2JC/5.png"
+    },
+    {
+      "id": 6,
+      "Name": "Iced Coffee",
+      "Chef": "Mr. Matin Paul",
+      "Supplier": "Cappu Authorizer",
+      "Price" : "690 TK",
+      "Taste": "Cool and refreshing",
+      "Category": "Iced Coffee",
+      "Details": "Chilled coffee served over ice",
+      "image": "https://i.ibb.co/187Z2JC/5.png"
+    }
+  ]
+  
